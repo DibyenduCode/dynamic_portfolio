@@ -171,7 +171,6 @@
 
                                         </div>
 
-
                                         <!-- TOGGLE -->
                                         <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-5 glass rounded-3xl p-6">
 

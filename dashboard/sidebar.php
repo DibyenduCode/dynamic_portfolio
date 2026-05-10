@@ -29,10 +29,10 @@
         Dashboard
       </a>
 
-      <a href="#"
+      <a href="./pages/hero.php"
         class="sidebar-link flex items-center gap-3 px-4 py-3 rounded-2xl text-slate-300">
-        <i class="fa-solid fa-user"></i>
-        About
+        <i class="fa-solid fa-bars"></i>
+        Hero Section
       </a>
 
       <a href="#"

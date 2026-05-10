@@ -57,10 +57,7 @@
             and experience with a modern developer dashboard.
           </p>
 
-          <button
-            class="mt-6 bg-white text-slate-900 px-6 py-3 rounded-2xl font-semibold hover:scale-105 transition">
-            Edit Portfolio
-          </button>
+          
 
         </div>
 
